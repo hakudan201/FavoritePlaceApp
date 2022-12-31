@@ -8,7 +8,6 @@ color teal_200
 color teal_700
 color white
 drawable background
-drawable background2
 drawable ic_baseline_lock_24
 drawable ic_baseline_person_outline_24
 drawable ic_launcher_background

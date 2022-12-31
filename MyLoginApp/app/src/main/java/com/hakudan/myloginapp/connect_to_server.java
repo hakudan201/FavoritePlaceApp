@@ -1,6 +1,8 @@
 package com.hakudan.myloginapp;
 
+import android.content.Context;
 import android.os.AsyncTask;
+import android.os.SystemClock;
 import android.util.Log;
 
 import java.io.*;
@@ -24,6 +26,7 @@ public class connect_to_server extends AsyncTask<Void, Void, String> {
     @Override
     protected String doInBackground(Void... voids) {
         //connectToServer();
+
         return connected;
     }
 
@@ -37,7 +40,8 @@ public class connect_to_server extends AsyncTask<Void, Void, String> {
             int i = 0;
             while ((message != null) && (i < 1)) {
                 out.println(message);
-                System.out.println("echo: " + in.readLine());
+                result = in.readLine();
+                System.out.println("echo: " + result);
                 i++;
             }
 
@@ -61,15 +65,22 @@ public class connect_to_server extends AsyncTask<Void, Void, String> {
             Log.d(LOG_TAG, toast_message );
         }
 
-
     }
 
     public void sendMessage(String message) throws Exception {
         if (this.clientSocket != null) {
+            out = new PrintWriter(this.clientSocket.getOutputStream(), true);
+            in = new BufferedReader(new InputStreamReader(this.clientSocket.getInputStream()));
             int i = 0;
-            while ((message != null) && (i < 1)) {
+            while ((message != null) && (i < 2)) {
                 out.println(message);
-                System.out.println("echo: " + in.readLine());
+                try {
+                    Thread.sleep(3000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                result = in.readLine();
+                System.out.println("echo: " + result);
                 i++;
             }
         } else {
@@ -85,6 +96,14 @@ public class connect_to_server extends AsyncTask<Void, Void, String> {
             System.out.println("Error disconnect");
             System.out.println(e);
         }
+    }
+
+    public Socket getClientSocket() {
+        return this.clientSocket;
+    }
+
+    public void setClientSocket(Socket clientSocket) {
+        this.clientSocket = clientSocket;
     }
 
     @Override
