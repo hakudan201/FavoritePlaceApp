@@ -52,10 +52,6 @@
         "source": "com.hakudan.myloginapp-main-31:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.hakudan.myloginapp-merged_res-29:/drawable-v24_background2.jpg.flat",
-        "source": "com.hakudan.myloginapp-main-31:/drawable-v24/background2.jpg"
-    },
-    {
         "merged": "com.hakudan.myloginapp-merged_res-29:/drawable_ic_launcher_background.xml.flat",
         "source": "com.hakudan.myloginapp-main-31:/drawable/ic_launcher_background.xml"
     },
