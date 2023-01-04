@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="favorite_places_sharing_app">Favorite places sharing app</string>
+    <string name="plasha">Plasha</string>
+    <string name="username">Username</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="welcome_to_plasha">Welcome to PlaSha</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account">Create account</string>
+    <string name="password1">Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="username_signup">Username</string>
+</resources>
