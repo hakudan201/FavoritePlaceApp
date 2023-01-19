@@ -27,6 +27,20 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyLoginApp" >
         <activity
+            android:name="com.hakudan.myloginapp.MainActivity"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.hakudan.myloginapp.DashboardActivity"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="com.hakudan.myloginapp.SignUp"
             android:exported="false" >
             <meta-data
@@ -34,7 +48,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name="com.hakudan.myloginapp.MainActivity"
+            android:name="com.hakudan.myloginapp.SignIn"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"

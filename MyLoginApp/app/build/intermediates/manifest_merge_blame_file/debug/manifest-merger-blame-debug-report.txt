@@ -7,122 +7,148 @@
 7
 8    <uses-sdk
 9        android:minSdkVersion="22"
-9-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml
+9-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml
 10        android:targetSdkVersion="32" />
-10-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml
+10-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml
 11
 12    <dist:module dist:instant="true" />
-12-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:6:5-40
-12-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:6:18-37
+12-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:6:5-40
+12-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:6:18-37
 13
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:8:5-67
-14-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:8:22-64
+14-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:8:5-67
+14-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:8:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:9:5-79
-15-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:9:22-76
+15-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:9:5-79
+15-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:9:22-76
 16
 17    <application
-17-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:11:5-52:19
+17-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:11:5-65:19
 18        android:allowBackup="true"
-18-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:12:9-35
+18-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:12:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.8.0] /Users/hakudan/.gradle/caches/transforms-3/87a796fe63836d99a2198ac6a6284cb3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:13:9-65
+20-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:13:9-65
 21        android:debuggable="true"
 22        android:fullBackupContent="@xml/backup_rules"
-22-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:14:9-54
+22-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:14:9-54
 23        android:icon="@mipmap/ic_launcher"
-23-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:15:9-43
+23-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:15:9-43
 24        android:label="@string/app_name"
-24-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:16:9-41
+24-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:16:9-41
 25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:17:9-54
+25-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:17:9-54
 26        android:supportsRtl="true"
-26-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:18:9-35
+26-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:18:9-35
 27        android:testOnly="true"
 28        android:theme="@style/Theme.MyLoginApp" >
-28-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:19:9-48
+28-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:19:9-48
 29        <activity
-29-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:21:9-27:20
-30            android:name="com.hakudan.myloginapp.SignUp"
-30-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:22:13-35
+29-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:21:9-27:20
+30            android:name="com.hakudan.myloginapp.MainActivity"
+30-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:22:13-41
 31            android:exported="false" >
-31-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:23:13-37
+31-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:23:13-37
 32            <meta-data
-32-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:24:13-26:36
+32-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:24:13-26:36
 33                android:name="android.app.lib_name"
-33-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:25:17-52
+33-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:25:17-52
 34                android:value="" />
-34-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:26:17-33
+34-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:26:17-33
 35        </activity>
 36        <activity
-36-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:28:9-34:20
-37            android:name="com.hakudan.myloginapp.MainActivity"
-37-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:29:13-41
+36-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:28:9-34:20
+37            android:name="com.hakudan.myloginapp.DashboardActivity"
+37-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:29:13-46
 38            android:exported="false" >
-38-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:30:13-37
+38-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:30:13-37
 39            <meta-data
-39-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:24:13-26:36
+39-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:24:13-26:36
 40                android:name="android.app.lib_name"
-40-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:25:17-52
+40-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:25:17-52
 41                android:value="" />
-41-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:26:17-33
+41-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:26:17-33
 42        </activity>
 43        <activity
-43-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:35:9-47:20
-44            android:name="com.hakudan.myloginapp.SplashScreen"
-44-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:36:13-41
-45            android:exported="true" >
-45-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:37:13-36
-46            <intent-filter>
-46-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:38:13-42:29
-47                <action android:name="android.intent.action.MAIN" />
-47-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:39:17-69
-47-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:39:25-66
-48
-49                <category android:name="android.intent.category.LAUNCHER" />
-49-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:41:17-77
-49-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:41:27-74
-50            </intent-filter>
-51
-52            <meta-data
-52-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:24:13-26:36
-53                android:name="android.app.lib_name"
-53-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:25:17-52
-54                android:value="" />
-54-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:26:17-33
-55        </activity>
-56
-57        <meta-data
-57-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:49:9-51:57
-58            android:name="preloaded_fonts"
-58-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:50:13-43
-59            android:resource="@array/preloaded_fonts" />
-59-->/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/AndroidManifest.xml:51:13-54
-60
-61        <provider
-61-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-62            android:name="androidx.startup.InitializationProvider"
-62-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-63            android:authorities="com.hakudan.myloginapp.androidx-startup"
-63-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-64            android:exported="false" >
-64-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-65            <meta-data
-65-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-66-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-67                android:value="androidx.startup" />
-67-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-68            <meta-data
-68-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hakudan/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-69-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hakudan/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-70                android:value="androidx.startup" />
-70-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hakudan/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-71        </provider>
-72    </application>
-73
-74</manifest>
+43-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:35:9-41:20
+44            android:name="com.hakudan.myloginapp.SignUp"
+44-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:36:13-35
+45            android:exported="false" >
+45-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:37:13-37
+46            <meta-data
+46-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:24:13-26:36
+47                android:name="android.app.lib_name"
+47-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:25:17-52
+48                android:value="" />
+48-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:26:17-33
+49        </activity>
+50        <activity
+50-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:42:9-48:20
+51            android:name="com.hakudan.myloginapp.SignIn"
+51-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:43:13-35
+52            android:exported="false" >
+52-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:44:13-37
+53            <meta-data
+53-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:24:13-26:36
+54                android:name="android.app.lib_name"
+54-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:25:17-52
+55                android:value="" />
+55-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:26:17-33
+56        </activity>
+57        <activity
+57-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:49:9-60:20
+58            android:name="com.hakudan.myloginapp.SplashScreen"
+58-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:50:13-41
+59            android:exported="true" >
+59-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:51:13-36
+60            <intent-filter>
+60-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:52:13-55:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:53:17-69
+61-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:53:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:54:17-77
+63-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:54:27-74
+64            </intent-filter>
+65
+66            <meta-data
+66-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:24:13-26:36
+67                android:name="android.app.lib_name"
+67-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:25:17-52
+68                android:value="" />
+68-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:26:17-33
+69        </activity>
+70
+71        <meta-data
+71-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:62:9-64:57
+72            android:name="preloaded_fonts"
+72-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:63:13-43
+73            android:resource="@array/preloaded_fonts" />
+73-->/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/AndroidManifest.xml:64:13-54
+74
+75        <provider
+75-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+76            android:name="androidx.startup.InitializationProvider"
+76-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+77            android:authorities="com.hakudan.myloginapp.androidx-startup"
+77-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+78            android:exported="false" >
+78-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+79            <meta-data
+79-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+80-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+81                android:value="androidx.startup" />
+81-->[androidx.emoji2:emoji2:1.2.0] /Users/hakudan/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hakudan/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+83                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+83-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hakudan/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+84                android:value="androidx.startup" />
+84-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hakudan/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+85        </provider>
+86    </application>
+87
+88</manifest>

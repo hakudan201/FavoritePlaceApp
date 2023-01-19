@@ -4,7 +4,7 @@
             "outputFile": "com.hakudan.myloginapp-mergeDebugResources-27:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/hakudan/Downloads/FavoritePlaceApp-main/MyLoginApp/app/src/main/res/values-night/themes.xml",
+                    "source": "/Users/hakudan/Documents/LapTrinhMang/FavoritePlaceApp/MyLoginApp/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

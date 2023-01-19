@@ -34,6 +34,7 @@
         android:autofillHints=""
         android:background="#30ffffff"
         android:drawableStart="@drawable/ic_baseline_person_outline_24"
+        android:drawablePadding="20dp"
         android:hint="@string/username_signup"
         android:padding="20dp"
         android:textColor="@color/white"

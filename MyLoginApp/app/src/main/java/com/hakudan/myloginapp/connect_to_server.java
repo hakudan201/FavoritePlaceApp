@@ -16,7 +16,7 @@ public class connect_to_server extends AsyncTask<Void, Void, String> {
     String result = "";
     String toast_message = "Message Sent";
 
-    private final String ip = "172.16.76.175";
+    private final String ip = "192.168.0.244";
     private final int port = 5500;
     private Socket clientSocket;
     private PrintWriter out;

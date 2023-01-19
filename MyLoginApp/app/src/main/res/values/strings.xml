@@ -14,4 +14,7 @@
     <string name="password1">Password</string>
     <string name="already_have_an_account">Already have an account?</string>
     <string name="username_signup">Username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share_places">share places</string>
 </resources>

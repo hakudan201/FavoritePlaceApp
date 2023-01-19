@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/layout_fragment_share_places.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/layout/fragment_share_places.xml"
+    },
+    {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/xml_backup_rules.xml.flat",
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/xml/backup_rules.xml"
     },
@@ -8,16 +12,16 @@
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/drawable/ic_baseline_person_outline_24.xml"
     },
     {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/layout_fragment_friends.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/layout/fragment_friends.xml"
+    },
+    {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/drawable_ic_launcher_background.xml.flat",
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.hakudan.myloginapp-merged_res-29:/layout_activity_sign_up.xml.flat",
-        "source": "com.hakudan.myloginapp-main-31:/layout/activity_sign_up.xml"
     },
     {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -30,6 +34,18 @@
     {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/drawable-v24_background.jpg.flat",
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/drawable-v24/background.jpg"
+    },
+    {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/drawable/ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/layout_fragment_profile.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/layout_fragment_home.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/layout/fragment_home.xml"
     },
     {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -56,6 +72,14 @@
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/drawable_ic_baseline_add_location_alt_24.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/drawable/ic_baseline_add_location_alt_24.xml"
+    },
+    {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/layout_activity_dashboard.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/layout/activity_dashboard.xml"
+    },
+    {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/layout_activity_sign_up.xml.flat",
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/layout/activity_sign_up.xml"
     },
@@ -64,16 +88,28 @@
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/drawable/ic_baseline_home_24.xml"
+    },
+    {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.hakudan.myloginapp-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "com.hakudan.myloginapp-main-31:/layout/activity_main.xml"
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/drawable_ic_baseline_group_24.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/drawable/ic_baseline_group_24.xml"
+    },
+    {
+        "merged": "com.hakudan.myloginapp-merged_res-29:/layout_fragment_profile.xml.flat",
+        "source": "com.hakudan.myloginapp-main-31:/layout/fragment_profile.xml"
     },
     {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/font_bangers.xml.flat",
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/font/bangers.xml"
+    },
+    {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/menu_menu_nav.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/menu/menu_nav.xml"
     },
     {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
@@ -102,5 +138,9 @@
     {
         "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/layout_activity_splash_screen.xml.flat",
         "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-merged_res-29:/layout_activity_sign_in.xml.flat",
+        "source": "/Users/hakudan/.gradle/daemon/7.4/com.hakudan.myloginapp-main-31:/layout/activity_sign_in.xml"
     }
 ]

@@ -10,7 +10,7 @@
 
 //#include "account.h"
 
-#define PORT 5500   /* Port that will be opened */ 
+#define PORT 5500   /* Port that will be opened */
 #define BACKLOG 2   /* Number of allowed connections */
 #define BUFF_SIZE 1024
 
